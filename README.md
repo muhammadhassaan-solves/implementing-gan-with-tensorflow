@@ -19,34 +19,26 @@ I implemented a basic Generative Adversarial Network (GAN) using TensorFlow. The
 
 <p align="center">
 Dataset Loading & Preprocessing <br />
-<img src="https://i.imgur.com/U3v4MhV.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U3v4MhV.jpeg"/>
 <br />
 <br />
 Model Architecture <br/>
-<img src="https://i.imgur.com/7cGp4DF.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7cGp4DF.jpeg" />
 <br />
 <br />
 Loss Functions <br/>
-<img src="https://i.imgur.com/p4xCOvP.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p4xCOvP.jpeg" />
 <br />
 <br />
 Training Loop <br/>
-<img src="https://i.imgur.com/5bZLann.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5bZLann.jpeg" />
 <br />
 <br />
 Image Generation <br/>
-<img src="https://i.imgur.com/oYVnG3A.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oYVnG3A.jpeg" />
 <br />
 <br />
 
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
